@@ -1,0 +1,25 @@
+{
+  "version": "v1.0-realistic",
+  "date": "2026-07-11",
+  "generatedBy": "Codex built-in imagegen, followed by local chroma-key removal and deterministic Swift/AppKit normalization",
+  "identitySource": "Owner-provided Douhua reference photographs and the derived model sheet; original photographs are not bundled",
+  "modelSheet": "Docs/Art/douhua-model-sheet-v1.0-realistic.png",
+  "promptSet": "Docs/Art/DouhuaImageGenPrompts-v1.md",
+  "runtimeNetworkAccess": false,
+  "canvasPixels": {
+    "width": 480,
+    "height": 440
+  },
+  "logicalPointsAtMediumSize": {
+    "width": 240,
+    "height": 220
+  },
+  "baselineFromTopPixels": 424,
+  "sprites": [
+    { "state": "walking", "file": "douhua_walk_v1.png" },
+    { "state": "observing", "file": "douhua_observe_v1.png" },
+    { "state": "loafing", "file": "douhua_loaf_v1.png" },
+    { "state": "sleeping", "file": "douhua_sleep_v1.png" },
+    { "state": "petted", "file": "douhua_petted_v1.png" }
+  ]
+}

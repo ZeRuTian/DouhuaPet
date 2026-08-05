@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: repaired production sprite animation strip for a macOS desktop pet
+Primary request: regenerate the complete eight-pose window-edge paw tap while eliminating the visible scale, width, camera-angle and identity jump in the failed row.
+Input images: Image 1 is the canonical standing identity; Image 2 is the APPROVED exact seated window-perch anchor and is authoritative for frame 1, frame 8, head dimensions, torso width, hip width, viewing angle, pixel density, ground baseline and scale; Image 3 is the QA contact sheet where the failed tap row is visibly broader and larger than the approved perch row.
+Scene/backdrop: perfectly flat solid #ff00ff chroma-key background, uniform across the entire canvas.
+Subject: the same small slim golden-orange tabby Douhua, seated in exactly the approved right-facing three-quarter perch.
+Style/medium: refined high-resolution pixel-art sprite matching the approved anchor exactly.
+Composition/framing: exactly eight separated complete poses in 4×2 reading order, generous padding, one fixed baseline and camera. Do not make the tap row wider, taller, rounder, closer to camera, more frontal, or more detailed than Image 2.
+Motion: frame 1 must match Image 2's compact seated silhouette exactly. Frame 2 lowers only eyes, nose and neck slightly. Frame 3 shifts the near shoulder a few pixels while pelvis, chest base and far forepaw stay fixed. Frames 4–5 articulate the near shoulder, elbow and wrist to lower one attached paw over an invisible edge; this is a restrained reach, not a crouch and not a whole-torso lunge. Frame 6 holds the paw briefly. Frame 7 retracts through the same joint path. Frame 8 must return to the same pose, outline, head location, body width and scale as Image 2.
+Hard invariants: match Image 2's skull width, ear spacing, muzzle, neck length, shoulder height, chest width, hip width, paw size, stripe map and tail thickness. The planted far forepaw and both hind legs remain present. Stable pelvis and baseline; only the reaching limb and a small head turn move materially.
+Avoid: the failed row's larger/fatter cat, frontal rotation, expanding torso, oversized head, camera zoom, whole-body bob, detached or missing limb, extra paw, visible window/ledge/cursor, shadow, floor, impact marks, effects, labels, borders, guides, crop, watermark.

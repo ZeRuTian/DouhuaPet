@@ -1,0 +1,7 @@
+Create exactly eight progressive right-facing full-body pixel-art frames of Douhua lowering from a planted standing rest into his real compact loaf, arranged four columns by two rows on perfectly flat solid #ff00ff.
+
+Image 1 is the absolute runtime idle identity and scale master. Image 2 proves the approved runtime style and proportions. Images 3 and 4 show real Douhua's low chest, tucked forepaws, rounded back, grounded tail, and serious relaxed face.
+
+Frame order: 1 exact planted standing master with head just beginning to lower; 2 shoulders soften and knees bend; 3 forelegs fold while hips remain the same mass; 4 one elbow and chest approach the ground; 5 both forearms tuck under the unchanged chest; 6 sternum settles and hips lower; 7 tail curls along the floor and body relaxes; 8 authentic compact loaf with tucked paws and half-relaxed eyes. Adjacent frames must be close, natural feline biomechanics, reversible as a stand-up animation.
+
+Hard identity lock: copy the idle master's exact skull/head pixel dimensions, cheek width, ear spacing, eye placement, muzzle, chest/ribcage depth, hip volume, limb/paw thickness, tail thickness, coat markings, rendering and pixel density. Articulate joints only; never resize the cat. Eight separated complete cats, one fixed pixel scale and ground baseline, generous padding, no cropping, missing/merged limbs, overlap, shadow, floor, effects, text, guide or watermark.
