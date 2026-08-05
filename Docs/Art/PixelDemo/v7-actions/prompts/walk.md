@@ -1,0 +1,7 @@
+Create one production 4-column by 2-row sprite sheet with exactly eight ordered poses of Douhua performing one seamless, anatomically correct slow feline walk cycle toward screen-right.
+
+Image 1 is the canonical v0.6 pixel-art identity, palette, four-leg anatomy and camera reference. Image 2 is the real Douhua identity and body-language reference. Preserve the same round face, small ears, olive eyes, serious expression, muted gray-gold coat, cream chest, sturdy non-obese proportions, long dark-tipped tail and refined crisp pixel technique.
+
+The eight poses are consecutive equal-distance phases of a true four-beat cat walk: initial fore contact; weight acceptance; opposite hind advance; first passing pose; opposite fore reach; opposite fore contact; near hind advance; push-off returning seamlessly to pose 1. Near and far forelegs and near and far hind legs must remain anatomically attached and visibly alternate. Far-side legs are slightly darker but remain readable. The head and torso stay registered and level while shoulders, hips and tail show only subtle weight transfer.
+
+Keep every complete cat separated from its neighbors by a wide pure-magenta gutter, with full face, ears, tail and every extended paw inside the pose group. All eight paws share one ground baseline. Flat solid #ff00ff background only; no floor, shadow, labels, grid, text, effects or watermark. No cropped face or paw, missing/extra/fused legs, crossing limbs, body morphing, camera drift, speed lines, blur or detached pixels.

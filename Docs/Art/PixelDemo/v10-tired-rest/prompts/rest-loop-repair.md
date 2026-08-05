@@ -1,0 +1,7 @@
+Regenerate the complete eight-frame quiet rest loop. The prior rest loop failed cross-clip continuity because it turned front-facing and changed silhouette immediately after the approved tired-down final frame.
+
+Image 1 is the absolute runtime idle identity master. Image 2 is the APPROVED exact runtime tired-down final loaf frame and is now the pose, viewing angle, scale, head orientation, body width and ground-contact master for every frame in this row. Image 3 is the final QA contact showing the mismatch to eliminate. Image 4 is real Douhua's loaf reference.
+
+Create exactly eight progressive right-facing/three-quarter-right full-body pixel-art frames, four columns by two rows, on perfectly flat solid #ff00ff. Frame 1 must visually match Image 2 exactly. Keep the same side-oriented compact loaf silhouette, head angle, tucked paws, tail position, body width and scale through all eight frames. Only make a quiet 6-second loop: tiny chest/back inhale, exhale, slow eyelid close, slow reopen, one very small ear adjustment, tiny tail-tip curl, then return exactly to frame 1. Do not rotate the head/body toward a front view. Do not reposition or resize the cat.
+
+Preserve the idle master's skull, cheeks, ears, eyes, muzzle, chest/hips, paws, tail, coat markings, rendering and pixel density. Eight separated complete cats on one baseline; no whole-body bob, pose drift, cropping, missing/merged limbs, overlap, shadow, floor, effects, text, guide or watermark.

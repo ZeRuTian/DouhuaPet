@@ -1,0 +1,7 @@
+Create one production 4-column by 2-row sprite sheet with exactly eight ordered poses of Douhua performing one seamless short feline run/bound cycle toward screen-right.
+
+Image 1 is the canonical v0.6 pixel-art identity, palette, four-leg anatomy and camera reference. Image 2 is the real Douhua identity and body-language reference. Preserve the same round serious face, small ears, olive eyes, muted gray-gold coat, cream chest, sturdy non-obese body, long dark-tipped tail and crisp refined pixel technique.
+
+The eight poses must describe a physically plausible cat acceleration/run cycle: low gathered preparation; rear-leg push; body extension with forelegs reaching; brief extended flight; forepaw contact; shoulder compression; hind legs gathering beneath the abdomen; rear support returning seamlessly to pose 1. The spine flexes slightly and the body becomes lower and longer than the walk, but identity and body volume do not change. All four legs remain anatomically attached; overlap may occur naturally but near/far limbs must be distinguished with controlled lighter/darker fur.
+
+Keep every complete cat separated from its neighbors by a wide pure-magenta gutter, with full face, ears, tail and fully extended paws inside each pose group. Use one consistent scale and camera. Flat solid #ff00ff background only; no floor, shadow, speed lines, dust, motion trails, blur, labels, grid, text or watermark. No clipping, missing/extra limbs, detached paws, fused body shapes, camera drift or changing coat markings.

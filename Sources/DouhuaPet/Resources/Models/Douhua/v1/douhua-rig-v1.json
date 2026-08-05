@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "model": "douhua_rigged.usdz",
+  "rootNode": "DouhuaRoot",
+  "modelScale": 1.0,
+  "modelYawDegrees": 90.0,
+  "camera": {
+    "position": [0.0, 0.82, 3.15],
+    "target": [0.0, 0.68, 0.0],
+    "fieldOfView": 27.0
+  },
+  "bones": {
+    "pelvis": "DEF-pelvis",
+    "spine1": "DEF-spine-01",
+    "spine2": "DEF-spine-02",
+    "neck": "DEF-neck",
+    "head": "DEF-head",
+    "jaw": "DEF-jaw",
+    "earLeft": "DEF-ear.L",
+    "earRight": "DEF-ear.R",
+    "tail1": "DEF-tail-01",
+    "tail2": "DEF-tail-02",
+    "tail3": "DEF-tail-03",
+    "tail4": "DEF-tail-04",
+    "tail5": "DEF-tail-05",
+    "frontLeftUpper": "DEF-fore-upper.L",
+    "frontLeftLower": "DEF-fore-lower.L",
+    "frontLeftPaw": "DEF-fore-paw.L",
+    "frontRightUpper": "DEF-fore-upper.R",
+    "frontRightLower": "DEF-fore-lower.R",
+    "frontRightPaw": "DEF-fore-paw.R",
+    "hindLeftUpper": "DEF-hind-upper.L",
+    "hindLeftLower": "DEF-hind-lower.L",
+    "hindLeftPaw": "DEF-hind-paw.L",
+    "hindRightUpper": "DEF-hind-upper.R",
+    "hindRightLower": "DEF-hind-lower.R",
+    "hindRightPaw": "DEF-hind-paw.R"
+  }
+}

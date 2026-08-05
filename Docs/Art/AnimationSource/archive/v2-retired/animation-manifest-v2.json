@@ -1,0 +1,6636 @@
+{
+  "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+  "chroma": {
+    "edgeRadius": 5,
+    "key": "#FF00FF",
+    "keyFarDistance": 190.0,
+    "keyNearDistance": 8.0,
+    "magentaResidueTolerance": 24
+  },
+  "clips": [
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 858,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 30,
+            "keyedPixels": 129779,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128885
+          },
+          "destination": [
+            17,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_00.png",
+          "globalScaleDestination": [
+            40,
+            132,
+            400,
+            292
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            132,
+            440,
+            424
+          ],
+          "sha256": "47d4b6cb7cdc93822bc62a647aec840d37f1b9688a42b9afa03e3531bc05277a",
+          "sourceAlphaBounds": [
+            42,
+            104,
+            399,
+            364
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 87560
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 885,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 32,
+            "keyedPixels": 129301,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128827
+          },
+          "destination": [
+            17,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_01.png",
+          "globalScaleDestination": [
+            40,
+            132,
+            400,
+            292
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 20,
+          "outputAlphaBounds": [
+            40,
+            132,
+            440,
+            424
+          ],
+          "sha256": "c53cfebf1f6fafa5a3eb5e18bf3003e693b45349e5fbad9658a6f0f5e04bb841",
+          "sourceAlphaBounds": [
+            42,
+            104,
+            399,
+            364
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 87607
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 856,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 22,
+            "keyedPixels": 129350,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128900
+          },
+          "destination": [
+            17,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_02.png",
+          "globalScaleDestination": [
+            40,
+            132,
+            400,
+            292
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            132,
+            440,
+            424
+          ],
+          "sha256": "0d605edd5751f6cb708790be52a157fa55506ad364c1e5cecf56681844f61f10",
+          "sourceAlphaBounds": [
+            42,
+            104,
+            399,
+            364
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 87506
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 893,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 45,
+            "keyedPixels": 129873,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128965
+          },
+          "destination": [
+            19,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_03.png",
+          "globalScaleDestination": [
+            42,
+            132,
+            400,
+            292
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            132,
+            442,
+            424
+          ],
+          "sha256": "9f70cda7a957cce70c978196d39bc8451312875b886efdc24ec2f60da60b1b5a",
+          "sourceAlphaBounds": [
+            43,
+            104,
+            400,
+            364
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 87475
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 853,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 26,
+            "keyedPixels": 129380,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128932
+          },
+          "destination": [
+            16,
+            100,
+            446,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_04.png",
+          "globalScaleDestination": [
+            38,
+            132,
+            401,
+            292
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 21,
+          "outputAlphaBounds": [
+            38,
+            132,
+            439,
+            424
+          ],
+          "sha256": "7a885d4c8f5e976c9592738e628d34e4ef01eb59862459f619cf6cb6c3f0d65e",
+          "sourceAlphaBounds": [
+            41,
+            92,
+            399,
+            352
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 87474
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 858,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 21,
+            "keyedPixels": 128899,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 128900
+          },
+          "destination": [
+            17,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_05.png",
+          "globalScaleDestination": [
+            40,
+            132,
+            400,
+            292
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            132,
+            440,
+            424
+          ],
+          "sha256": "3442d2ff9cb7acfd89c943d1da5bdf78c1e98938c07a051fd23b7a11a1a0546b",
+          "sourceAlphaBounds": [
+            42,
+            92,
+            399,
+            352
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 87561
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 852,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 18,
+            "keyedPixels": 129002,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 129001
+          },
+          "destination": [
+            17,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_06.png",
+          "globalScaleDestination": [
+            40,
+            132,
+            400,
+            292
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            132,
+            440,
+            424
+          ],
+          "sha256": "a3cd526e5fcd8da647250811d21a9d1e4ba0a74aa8c76871fa891a9a3ccef057",
+          "sourceAlphaBounds": [
+            42,
+            92,
+            399,
+            352
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 87417
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 856,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 31,
+            "keyedPixels": 129488,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 129030
+          },
+          "destination": [
+            19,
+            100,
+            445,
+            324
+          ],
+          "file": "loaf_breathe/douhua_loaf_breathe_07.png",
+          "globalScaleDestination": [
+            42,
+            132,
+            400,
+            292
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            132,
+            442,
+            424
+          ],
+          "sha256": "f6096cbf1ee84ea19f536a2e8090d099d6b43dc81fe8e9529ccfcff22611b5d8",
+          "sourceAlphaBounds": [
+            43,
+            92,
+            400,
+            352
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 87417
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "loaf_breathe",
+      "sharedScale": 1.24791086,
+      "sharedSourceSlotAnchorX": 242,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-37919ef6-274e-4c6b-a54c-51104775d9f1.png",
+      "sourceSha256": "e446efceef68e14e86d77d94a7276fde6f4be495b8f8bd699e1c9a61aa9553c7"
+    },
+    {
+      "cellSize": [
+        418,
+        471
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.50059432,
+          1.47403315,
+          1.40553329,
+          1.31187022,
+          1.16571429,
+          1.11615635,
+          1.04765649,
+          1.02109532
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.50059432,
+        "sourceState": "loafing",
+        "targetEndpointScale": 1.02109532,
+        "targetState": "observing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 652,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 15,
+            "keyedPixels": 158189,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 157890
+          },
+          "crossClipDestination": [
+            40,
+            131,
+            399,
+            293
+          ],
+          "destination": [
+            101,
+            207,
+            296,
+            217
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_00.png",
+          "globalScaleDestination": [
+            116,
+            229,
+            266,
+            195
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            131,
+            439,
+            424
+          ],
+          "sha256": "dfd814dade757d8d4d9fd5fdf92615b01ad2b620db87849fe77e8d93e27ad1b5",
+          "sourceAlphaBounds": [
+            90,
+            202,
+            344,
+            389
+          ],
+          "sourceCell": [
+            0,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 98679
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 800,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 25,
+            "keyedPixels": 153854,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 153409
+          },
+          "crossClipDestination": [
+            45,
+            69,
+            394,
+            355
+          ],
+          "destination": [
+            64,
+            156,
+            297,
+            268
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_01.png",
+          "globalScaleDestination": [
+            79,
+            183,
+            267,
+            241
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            45,
+            69,
+            439,
+            424
+          ],
+          "sha256": "cc3a6c6fc6597948912ee7632cb70041c61f1add2cfac641e590f57182c8e67f",
+          "sourceAlphaBounds": [
+            58,
+            160,
+            313,
+            390
+          ],
+          "sourceCell": [
+            418,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 106526
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1063,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 62,
+            "keyedPixels": 148748,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 147997
+          },
+          "crossClipDestination": [
+            33,
+            46,
+            424,
+            378
+          ],
+          "destination": [
+            41,
+            125,
+            336,
+            299
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_02.png",
+          "globalScaleDestination": [
+            58,
+            155,
+            302,
+            269
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            33,
+            46,
+            457,
+            424
+          ],
+          "sha256": "3a60f32274db6f610a12b46d2edb28a9c76a6fe02a049018ac00185aeb6bfab8",
+          "sourceAlphaBounds": [
+            38,
+            156,
+            327,
+            413
+          ],
+          "sourceCell": [
+            836,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 108405
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1629,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 627,
+            "keyedPixels": 147521,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 146219
+          },
+          "crossClipDestination": [
+            53,
+            20,
+            396,
+            404
+          ],
+          "destination": [
+            33,
+            82,
+            335,
+            342
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_03.png",
+          "globalScaleDestination": [
+            50,
+            116,
+            302,
+            308
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            53,
+            20,
+            449,
+            424
+          ],
+          "sha256": "8de12d992c543b996df1e054761b4b09b0138c3c98cdbb258fb40ee0888b46d1",
+          "sourceAlphaBounds": [
+            31,
+            127,
+            319,
+            421
+          ],
+          "sourceCell": [
+            1254,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 98390
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1284,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 61,
+            "keyedPixels": 140286,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 138896
+          },
+          "crossClipDestination": [
+            81,
+            16,
+            352,
+            408
+          ],
+          "destination": [
+            90,
+            35,
+            336,
+            389
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_04.png",
+          "globalScaleDestination": [
+            107,
+            74,
+            302,
+            350
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            81,
+            16,
+            433,
+            424
+          ],
+          "sha256": "f3404f768fc4549a476e170868f1f1b870df6dab208388678f756b6a73472af1",
+          "sourceAlphaBounds": [
+            80,
+            22,
+            369,
+            356
+          ],
+          "sourceCell": [
+            0,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 88899
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1017,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 103,
+            "keyedPixels": 141104,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 140022
+          },
+          "crossClipDestination": [
+            104,
+            18,
+            316,
+            406
+          ],
+          "destination": [
+            55,
+            20,
+            314,
+            404
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_05.png",
+          "globalScaleDestination": [
+            70,
+            60,
+            283,
+            364
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            104,
+            18,
+            420,
+            424
+          ],
+          "sha256": "871b526194d9484adb920c6f397b165667694cd189a3f66b6402ed5a6b44252c",
+          "sourceAlphaBounds": [
+            50,
+            21,
+            320,
+            368
+          ],
+          "sourceCell": [
+            418,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 79903
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 949,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 30,
+            "keyedPixels": 141754,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 140764
+          },
+          "crossClipDestination": [
+            129,
+            40,
+            273,
+            384
+          ],
+          "destination": [
+            73,
+            16,
+            290,
+            408
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_06.png",
+          "globalScaleDestination": [
+            88,
+            57,
+            261,
+            367
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            129,
+            40,
+            402,
+            424
+          ],
+          "sha256": "50a1651ca4f2889f04d6034f37a6ceb978a16d0ccdf0b79054c929a09eb835a1",
+          "sourceAlphaBounds": [
+            66,
+            25,
+            315,
+            375
+          ],
+          "sourceCell": [
+            836,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 69295
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 934,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 32,
+            "keyedPixels": 141746,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 140748
+          },
+          "crossClipDestination": [
+            136,
+            49,
+            263,
+            375
+          ],
+          "destination": [
+            64,
+            16,
+            287,
+            408
+          ],
+          "file": "loaf_to_observe/douhua_loaf_to_observe_07.png",
+          "globalScaleDestination": [
+            78,
+            57,
+            258,
+            367
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            136,
+            49,
+            399,
+            424
+          ],
+          "sha256": "9c938f108e6d509875547839098d5f4f0ee9e51baeb4f33f9b00bc9b4b163b85",
+          "sourceAlphaBounds": [
+            58,
+            24,
+            305,
+            374
+          ],
+          "sourceCell": [
+            1254,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 65901
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ],
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ]
+        ],
+        "y": [
+          0,
+          470,
+          941
+        ]
+      },
+      "name": "loaf_to_observe",
+      "sharedScale": 1.16571429,
+      "sharedSourceSlotAnchorX": 240,
+      "sheetSize": [
+        1672,
+        941
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-7633f3d8-36e7-46bc-a203-289776299d7b.png",
+      "sourceSha256": "650f8b5b07f336e66f3823cc5c47e38bd18de9b58077a3b1ba809409851c307b"
+    },
+    {
+      "cellSize": [
+        486,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.76279816,
+          1.72754723,
+          1.40438871,
+          1.19466667,
+          1.29106628,
+          1.2173913,
+          1.16167691,
+          1.12642597
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.76279816,
+        "sourceState": "loafing",
+        "targetEndpointScale": 1.12642597,
+        "targetState": "sleeping"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 986,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 82,
+            "keyedPixels": 162257,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 179791
+          },
+          "crossClipDestination": [
+            63,
+            94,
+            354,
+            330
+          ],
+          "destination": [
+            129,
+            216,
+            223,
+            208
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_00.png",
+          "globalScaleDestination": [
+            140,
+            237,
+            201,
+            187
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            63,
+            94,
+            417,
+            424
+          ],
+          "sha256": "86cc72253caf9d8b143e0f7d451053287627cf2795133273c6bc1e0017212a0c",
+          "sourceAlphaBounds": [
+            112,
+            175,
+            331,
+            379
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 96537
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 925,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 59,
+            "keyedPixels": 155681,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 176863
+          },
+          "crossClipDestination": [
+            37,
+            116,
+            406,
+            308
+          ],
+          "destination": [
+            74,
+            226,
+            261,
+            198
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_01.png",
+          "globalScaleDestination": [
+            87,
+            246,
+            235,
+            178
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            37,
+            116,
+            443,
+            424
+          ],
+          "sha256": "44e10994bf1590693e116e3e00f6236a09edd034c036db5a1e801f344ce6168e",
+          "sourceAlphaBounds": [
+            58,
+            186,
+            314,
+            381
+          ],
+          "sourceCell": [
+            444,
+            0,
+            436,
+            444
+          ],
+          "visiblePixels": 100109
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1089,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 68,
+            "keyedPixels": 134613,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 168108
+          },
+          "crossClipDestination": [
+            16,
+            140,
+            448,
+            284
+          ],
+          "destination": [
+            55,
+            199,
+            354,
+            225
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_02.png",
+          "globalScaleDestination": [
+            72,
+            222,
+            319,
+            202
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            140,
+            464,
+            424
+          ],
+          "sha256": "49531f907b59e0cc4a802e6018d2917aaa7c6ca290fa36ec276085cef6142374",
+          "sourceAlphaBounds": [
+            39,
+            184,
+            386,
+            405
+          ],
+          "sourceCell": [
+            880,
+            0,
+            408,
+            444
+          ],
+          "visiblePixels": 81674
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1176,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 80,
+            "keyedPixels": 170007,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 168780
+          },
+          "crossClipDestination": [
+            16,
+            197,
+            448,
+            227
+          ],
+          "destination": [
+            16,
+            213,
+            417,
+            211
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_03.png",
+          "globalScaleDestination": [
+            37,
+            234,
+            375,
+            190
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 20,
+          "outputAlphaBounds": [
+            16,
+            197,
+            464,
+            424
+          ],
+          "sha256": "8c017844ff80a8f8ec107e8587a1266d21a49e0c4269b53624df582b5570d75e",
+          "sourceAlphaBounds": [
+            1,
+            195,
+            410,
+            402
+          ],
+          "sourceCell": [
+            1288,
+            0,
+            486,
+            444
+          ],
+          "visiblePixels": 58441
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1062,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 73,
+            "keyedPixels": 157954,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 175916
+          },
+          "crossClipDestination": [
+            16,
+            233,
+            448,
+            191
+          ],
+          "destination": [
+            76,
+            259,
+            387,
+            165
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_04.png",
+          "globalScaleDestination": [
+            96,
+            276,
+            347,
+            148
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            233,
+            464,
+            424
+          ],
+          "sha256": "ef7fe5dda72beb47c84a27245df5cef890a8fda7d73c9089cffc2645374c3c9f",
+          "sourceAlphaBounds": [
+            60,
+            121,
+            440,
+            283
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 57705
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1103,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 62,
+            "keyedPixels": 157180,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 175582
+          },
+          "crossClipDestination": [
+            16,
+            254,
+            448,
+            170
+          ],
+          "destination": [
+            54,
+            269,
+            409,
+            155
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_05.png",
+          "globalScaleDestination": [
+            74,
+            284,
+            368,
+            140
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            254,
+            464,
+            424
+          ],
+          "sha256": "fa782197f828a685a7e739c138d3df9161b035dc11971ac7e6dfc9a4852ad304",
+          "sourceAlphaBounds": [
+            38,
+            130,
+            439,
+            282
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 52101
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 997,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 38,
+            "keyedPixels": 149001,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 176369
+          },
+          "crossClipDestination": [
+            33,
+            281,
+            426,
+            143
+          ],
+          "destination": [
+            48,
+            287,
+            408,
+            137
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_06.png",
+          "globalScaleDestination": [
+            68,
+            301,
+            367,
+            123
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            33,
+            281,
+            459,
+            424
+          ],
+          "sha256": "a2a943988ca526dae3716ecca848d43bb8e594a3ddfb5be6db27e7f6bc4db5cf",
+          "sourceAlphaBounds": [
+            32,
+            150,
+            432,
+            285
+          ],
+          "sourceCell": [
+            887,
+            444,
+            423,
+            443
+          ],
+          "visiblePixels": 46106
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1112,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 35,
+            "keyedPixels": 168517,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 177591
+          },
+          "crossClipDestination": [
+            28,
+            287,
+            435,
+            137
+          ],
+          "destination": [
+            26,
+            288,
+            429,
+            136
+          ],
+          "file": "loaf_to_sleep/douhua_loaf_to_sleep_07.png",
+          "globalScaleDestination": [
+            48,
+            302,
+            386,
+            122
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            28,
+            287,
+            463,
+            424
+          ],
+          "sha256": "3bf8c03efe3f51c73bc98832138079f4977d6f540f4182264df88a66a9e277c6",
+          "sourceAlphaBounds": [
+            11,
+            155,
+            432,
+            289
+          ],
+          "sourceCell": [
+            1310,
+            444,
+            464,
+            443
+          ],
+          "visiblePixels": 41998
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            880,
+            1288,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1310,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "loaf_to_sleep",
+      "sharedScale": 1.02050114,
+      "sharedSourceSlotAnchorX": 263,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-03cec279-bf05-4766-818f-b676741044f5.png",
+      "sourceSha256": "04a3e32c2f927f55fca15d9f1706385120d38fde3a0c2e1317c74b91f70e0271"
+    },
+    {
+      "cellSize": [
+        418,
+        471
+      ],
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1375,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 65,
+            "keyedPixels": 111502,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 110503
+          },
+          "destination": [
+            118,
+            16,
+            299,
+            408
+          ],
+          "file": "observe_idle/douhua_observe_idle_00.png",
+          "globalScaleDestination": [
+            133,
+            57,
+            269,
+            367
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            133,
+            57,
+            402,
+            424
+          ],
+          "sha256": "85c4685f869a84b48847d7b597ba40ea28b64cbb79f0e8e7335d5c0c30026888",
+          "sourceAlphaBounds": [
+            85,
+            44,
+            390,
+            460
+          ],
+          "sourceCell": [
+            0,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 68432
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1368,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 70,
+            "keyedPixels": 113391,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 112406
+          },
+          "destination": [
+            90,
+            21,
+            299,
+            403
+          ],
+          "file": "observe_idle/douhua_observe_idle_01.png",
+          "globalScaleDestination": [
+            105,
+            61,
+            269,
+            363
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            105,
+            61,
+            374,
+            424
+          ],
+          "sha256": "7c42378d8646dbbc0a6e0ea80e01bc35abf39dc095da0d33190d2478e0068997",
+          "sourceAlphaBounds": [
+            56,
+            49,
+            361,
+            460
+          ],
+          "sourceCell": [
+            418,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 67012
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1472,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 84,
+            "keyedPixels": 113921,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 112857
+          },
+          "destination": [
+            80,
+            21,
+            300,
+            403
+          ],
+          "file": "observe_idle/douhua_observe_idle_02.png",
+          "globalScaleDestination": [
+            95,
+            61,
+            270,
+            363
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            95,
+            61,
+            365,
+            424
+          ],
+          "sha256": "58b41c8598dd3423e0173beaebe4c26589ca5abbead5185fc3d039c93e3986ca",
+          "sourceAlphaBounds": [
+            46,
+            49,
+            352,
+            460
+          ],
+          "sourceCell": [
+            836,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 66638
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1377,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 61,
+            "keyedPixels": 114561,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 113592
+          },
+          "destination": [
+            70,
+            22,
+            293,
+            402
+          ],
+          "file": "observe_idle/douhua_observe_idle_03.png",
+          "globalScaleDestination": [
+            84,
+            62,
+            264,
+            362
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            84,
+            62,
+            348,
+            424
+          ],
+          "sha256": "9d6b85f5ec4a41951102697e55291c16aa72b54e0f35f4e67138cdeb3a0a0657",
+          "sourceAlphaBounds": [
+            36,
+            51,
+            335,
+            461
+          ],
+          "sourceCell": [
+            1254,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 66292
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1377,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 62,
+            "keyedPixels": 112998,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 111603
+          },
+          "destination": [
+            128,
+            21,
+            294,
+            403
+          ],
+          "file": "observe_idle/douhua_observe_idle_04.png",
+          "globalScaleDestination": [
+            142,
+            61,
+            265,
+            363
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            142,
+            61,
+            407,
+            424
+          ],
+          "sha256": "22d5df71c01492bf35fed8f7cc453683f903a038de4b9c42e953e6f4874eed81",
+          "sourceAlphaBounds": [
+            95,
+            36,
+            395,
+            447
+          ],
+          "sourceCell": [
+            0,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 67691
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1410,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 63,
+            "keyedPixels": 114438,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 112985
+          },
+          "destination": [
+            96,
+            34,
+            297,
+            390
+          ],
+          "file": "observe_idle/douhua_observe_idle_05.png",
+          "globalScaleDestination": [
+            111,
+            73,
+            267,
+            351
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            111,
+            73,
+            378,
+            424
+          ],
+          "sha256": "60e74da7b72f11b43c42debc85d126ef03db53bfcade41f1b171be4c22b74195",
+          "sourceAlphaBounds": [
+            62,
+            49,
+            365,
+            447
+          ],
+          "sourceCell": [
+            418,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 66428
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1424,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 84,
+            "keyedPixels": 115395,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 113921
+          },
+          "destination": [
+            112,
+            20,
+            277,
+            404
+          ],
+          "file": "observe_idle/douhua_observe_idle_06.png",
+          "globalScaleDestination": [
+            126,
+            60,
+            249,
+            364
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            126,
+            60,
+            375,
+            424
+          ],
+          "sha256": "167ec885c4636dcb7214f511fc08445bd6d8de89212dd80a42e5380d4e68c696",
+          "sourceAlphaBounds": [
+            79,
+            35,
+            362,
+            447
+          ],
+          "sourceCell": [
+            836,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 65713
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1359,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 48,
+            "keyedPixels": 115389,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 114016
+          },
+          "destination": [
+            72,
+            25,
+            290,
+            399
+          ],
+          "file": "observe_idle/douhua_observe_idle_07.png",
+          "globalScaleDestination": [
+            86,
+            65,
+            261,
+            359
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            86,
+            65,
+            347,
+            424
+          ],
+          "sha256": "afd2e7a3aff3369fa01f6252110700f59a0517685cfcd927b03381cf9116a659",
+          "sourceAlphaBounds": [
+            38,
+            40,
+            334,
+            447
+          ],
+          "sourceCell": [
+            1254,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 65635
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ],
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ]
+        ],
+        "y": [
+          0,
+          470,
+          941
+        ]
+      },
+      "name": "observe_idle",
+      "sharedScale": 0.98076923,
+      "sharedSourceSlotAnchorX": 240,
+      "sheetSize": [
+        1672,
+        941
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-56836dc9-e518-4bbf-aa35-e5a03fbce666.png",
+      "sourceSha256": "42f9195bc28ff70f8d69604af661acb98185d7852d58e50210f079e41c9cd211"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.06989759,
+          1.09250538,
+          1.15080968,
+          1.23053189,
+          1.3173934,
+          1.39711561,
+          1.45541991,
+          1.4780277
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.06989759,
+        "sourceState": "observing",
+        "targetEndpointScale": 1.4780277,
+        "targetState": "loafing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1043,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 65,
+            "keyedPixels": 135849,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 134744
+          },
+          "crossClipDestination": [
+            142,
+            31,
+            251,
+            393
+          ],
+          "destination": [
+            160,
+            16,
+            261,
+            408
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_00.png",
+          "globalScaleDestination": [
+            173,
+            57,
+            235,
+            367
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            142,
+            31,
+            393,
+            424
+          ],
+          "sha256": "a31af1da2507cc7c8e7623aef997b714ad59e36b516c64ccb850c4430c15e13f",
+          "sourceAlphaBounds": [
+            149,
+            54,
+            387,
+            425
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 71600
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 936,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 42,
+            "keyedPixels": 141164,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 140636
+          },
+          "crossClipDestination": [
+            132,
+            86,
+            268,
+            338
+          ],
+          "destination": [
+            106,
+            81,
+            272,
+            343
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_01.png",
+          "globalScaleDestination": [
+            120,
+            115,
+            245,
+            309
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            132,
+            86,
+            400,
+            424
+          ],
+          "sha256": "4313d427cc7a5e93a8bc847cee1c3fb988436ed6951a8e8db7d72e5859bebff1",
+          "sourceAlphaBounds": [
+            100,
+            112,
+            348,
+            424
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 67843
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 997,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 47,
+            "keyedPixels": 140986,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 140379
+          },
+          "crossClipDestination": [
+            97,
+            132,
+            331,
+            292
+          ],
+          "destination": [
+            44,
+            142,
+            320,
+            282
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_02.png",
+          "globalScaleDestination": [
+            60,
+            170,
+            288,
+            254
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            97,
+            132,
+            428,
+            424
+          ],
+          "sha256": "d04b40d01ccf7c9a6d82c1ea07fb5abb7ec803c44a68b384d31b7e34a5f80b48",
+          "sourceAlphaBounds": [
+            44,
+            168,
+            335,
+            425
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 75271
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 905,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 33,
+            "keyedPixels": 145002,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 144030
+          },
+          "crossClipDestination": [
+            70,
+            162,
+            373,
+            262
+          ],
+          "destination": [
+            24,
+            187,
+            337,
+            237
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_03.png",
+          "globalScaleDestination": [
+            41,
+            211,
+            303,
+            213
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            70,
+            162,
+            443,
+            424
+          ],
+          "sha256": "a21f34b8479483f4238958e1e5a60068e4e8298e95211dd7889f477608bfb858",
+          "sourceAlphaBounds": [
+            26,
+            212,
+            333,
+            428
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 80320
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 860,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 29,
+            "keyedPixels": 145065,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 144605
+          },
+          "crossClipDestination": [
+            54,
+            147,
+            394,
+            277
+          ],
+          "destination": [
+            129,
+            191,
+            332,
+            233
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_04.png",
+          "globalScaleDestination": [
+            146,
+            214,
+            299,
+            210
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            54,
+            147,
+            448,
+            424
+          ],
+          "sha256": "6ee87cd094e99e8f36a37b187b5efc7a027f8503c8f4fa6e2ae93f7bbefd5ba8",
+          "sourceAlphaBounds": [
+            121,
+            143,
+            423,
+            355
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 91895
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 806,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 29,
+            "keyedPixels": 147710,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 147722
+          },
+          "crossClipDestination": [
+            50,
+            131,
+            390,
+            293
+          ],
+          "destination": [
+            104,
+            191,
+            310,
+            233
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_05.png",
+          "globalScaleDestination": [
+            120,
+            214,
+            279,
+            210
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            50,
+            131,
+            440,
+            424
+          ],
+          "sha256": "eecd6c64e26efb66dd846b166b6072015cc137ec7b24bf8800b40e636ba4f262",
+          "sourceAlphaBounds": [
+            98,
+            144,
+            380,
+            356
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 97066
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 806,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 28,
+            "keyedPixels": 149270,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 149292
+          },
+          "crossClipDestination": [
+            41,
+            129,
+            402,
+            295
+          ],
+          "destination": [
+            65,
+            198,
+            307,
+            226
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_06.png",
+          "globalScaleDestination": [
+            80,
+            221,
+            276,
+            203
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            41,
+            129,
+            443,
+            424
+          ],
+          "sha256": "36167588ffc2b710f8a9de67f714efb49888a585c8ed05593a3ee7cfe425826b",
+          "sourceAlphaBounds": [
+            63,
+            154,
+            343,
+            360
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 101180
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 769,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 29,
+            "keyedPixels": 152432,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 152018
+          },
+          "crossClipDestination": [
+            44,
+            127,
+            393,
+            297
+          ],
+          "destination": [
+            54,
+            201,
+            295,
+            223
+          ],
+          "file": "observe_to_loaf/douhua_observe_to_loaf_07.png",
+          "globalScaleDestination": [
+            68,
+            223,
+            266,
+            201
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 19,
+          "outputAlphaBounds": [
+            44,
+            127,
+            437,
+            424
+          ],
+          "sha256": "6a222003eb77e33233cdc2e7656e25820e5afcb5205da04df7c39e91b4688c70",
+          "sourceAlphaBounds": [
+            53,
+            161,
+            322,
+            364
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 98958
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "observe_to_loaf",
+      "sharedScale": 1.09973046,
+      "sharedSourceSlotAnchorX": 240,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-69d3e199-0931-4ecc-b139-d42313e2e880.png",
+      "sourceSha256": "9df56522bc3d82841611b1c02d905d0d2f50d46eb8ee89f3763124c9793555db"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.32905244,
+          1.30971047,
+          1.25982855,
+          1.19162266,
+          1.11730877,
+          1.04910288,
+          0.99922096,
+          0.97987899
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.32905244,
+        "sourceState": "observing",
+        "targetEndpointScale": 0.97987899,
+        "targetState": "walking"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 745,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 35,
+            "keyedPixels": 159026,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 158261
+          },
+          "crossClipDestination": [
+            130,
+            65,
+            275,
+            359
+          ],
+          "destination": [
+            134,
+            124,
+            230,
+            300
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_00.png",
+          "globalScaleDestination": [
+            146,
+            154,
+            207,
+            270
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            130,
+            65,
+            405,
+            424
+          ],
+          "sha256": "4093514c43d006e4f8421c773a5efe0154e1f49d4a6374999300776556d093c8",
+          "sourceAlphaBounds": [
+            109,
+            112,
+            320,
+            387
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 68494
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 691,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 22,
+            "keyedPixels": 161870,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 161581
+          },
+          "crossClipDestination": [
+            139,
+            86,
+            255,
+            338
+          ],
+          "destination": [
+            95,
+            137,
+            217,
+            287
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_01.png",
+          "globalScaleDestination": [
+            106,
+            166,
+            195,
+            258
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            139,
+            86,
+            394,
+            424
+          ],
+          "sha256": "e72e1301f860c283ba8512cd6aacf38c56440daf9be423fb9940badd4b898b40",
+          "sourceAlphaBounds": [
+            74,
+            125,
+            273,
+            388
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 60409
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 880,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 34,
+            "keyedPixels": 161637,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 161128
+          },
+          "crossClipDestination": [
+            110,
+            147,
+            310,
+            277
+          ],
+          "destination": [
+            70,
+            180,
+            273,
+            244
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_02.png",
+          "globalScaleDestination": [
+            84,
+            204,
+            246,
+            220
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 19,
+          "outputAlphaBounds": [
+            110,
+            147,
+            420,
+            424
+          ],
+          "sha256": "a202eed0ac1da84c8370e6f3465eecdf1ceb9ef6afda6429d2ec7db74c8289e0",
+          "sourceAlphaBounds": [
+            51,
+            152,
+            301,
+            376
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 57430
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1017,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 37,
+            "keyedPixels": 158252,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 157116
+          },
+          "crossClipDestination": [
+            62,
+            190,
+            399,
+            234
+          ],
+          "destination": [
+            47,
+            206,
+            372,
+            218
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_03.png",
+          "globalScaleDestination": [
+            66,
+            228,
+            335,
+            196
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 16,
+          "outputAlphaBounds": [
+            62,
+            190,
+            461,
+            424
+          ],
+          "sha256": "75d43f9d3680adce4d03ba46e0ebbd4bc489628813cfe1b372b9364edd76f6b7",
+          "sourceAlphaBounds": [
+            30,
+            175,
+            371,
+            375
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 57278
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1055,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 41,
+            "keyedPixels": 159959,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 159242
+          },
+          "crossClipDestination": [
+            52,
+            205,
+            412,
+            219
+          ],
+          "destination": [
+            47,
+            206,
+            410,
+            218
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_04.png",
+          "globalScaleDestination": [
+            68,
+            228,
+            369,
+            196
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            52,
+            205,
+            464,
+            424
+          ],
+          "sha256": "16f9bef4d6f2e7dba578077b540c36b5247dcfe705e02672bda0fd74c064d052",
+          "sourceAlphaBounds": [
+            30,
+            130,
+            406,
+            330
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 47677
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1206,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 39,
+            "keyedPixels": 156170,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155715
+          },
+          "crossClipDestination": [
+            51,
+            228,
+            409,
+            196
+          ],
+          "destination": [
+            16,
+            216,
+            433,
+            208
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_05.png",
+          "globalScaleDestination": [
+            38,
+            237,
+            390,
+            187
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 20,
+          "outputAlphaBounds": [
+            51,
+            228,
+            460,
+            424
+          ],
+          "sha256": "6604bd01639c2ab43addf52c10aca34fe147eb453f31eb4e4bdc4c22f79d18d4",
+          "sourceAlphaBounds": [
+            1,
+            135,
+            398,
+            326
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 46006
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1181,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 50,
+            "keyedPixels": 157999,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 157567
+          },
+          "crossClipDestination": [
+            60,
+            247,
+            386,
+            177
+          ],
+          "destination": [
+            22,
+            227,
+            429,
+            197
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_06.png",
+          "globalScaleDestination": [
+            44,
+            247,
+            386,
+            177
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            60,
+            247,
+            446,
+            424
+          ],
+          "sha256": "fb9ce3f13bc0e72455094b12c8e07f785f5ed78ec7961f932ac3cc223c70e7e7",
+          "sourceAlphaBounds": [
+            7,
+            137,
+            400,
+            318
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 39720
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1266,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 42,
+            "keyedPixels": 157249,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 156300
+          },
+          "crossClipDestination": [
+            57,
+            247,
+            391,
+            177
+          ],
+          "destination": [
+            20,
+            223,
+            443,
+            201
+          ],
+          "file": "observe_to_walk/douhua_observe_to_walk_07.png",
+          "globalScaleDestination": [
+            42,
+            243,
+            399,
+            181
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 15,
+          "outputAlphaBounds": [
+            57,
+            247,
+            448,
+            424
+          ],
+          "sha256": "63270e5e6b81db198a98e61e7d6b0640e2de58ad61b163b2a77142b1eb5fe92d",
+          "sourceAlphaBounds": [
+            5,
+            140,
+            411,
+            324
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 39958
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "observe_to_walk",
+      "sharedScale": 1.09268293,
+      "sharedSourceSlotAnchorX": 257,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-172599fb-6fb7-4ae4-84d9-e47515730871.png",
+      "sourceSha256": "54b3bbffaf477d4ee05608555baed1330b99ebd6b16c687431c141a71e1bb2d3"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.04294581,
+          1.04669313,
+          1.05635726,
+          1.06957147,
+          1.08396906,
+          1.09718327,
+          1.1068474,
+          1.11059472
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.04294581,
+        "sourceState": "loafing",
+        "targetEndpointScale": 1.11059472,
+        "targetState": "loafing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 802,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 22,
+            "keyedPixels": 131326,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 130445
+          },
+          "crossClipDestination": [
+            48,
+            121,
+            385,
+            303
+          ],
+          "destination": [
+            54,
+            101,
+            410,
+            323
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_00.png",
+          "globalScaleDestination": [
+            74,
+            133,
+            369,
+            291
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            48,
+            121,
+            433,
+            424
+          ],
+          "sha256": "76d67482b0f36ac8b40f7a05cd36ad14f3f504429c79cfc9963ff8ff47abf2c0",
+          "sourceAlphaBounds": [
+            72,
+            144,
+            411,
+            411
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 88080
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 799,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 16,
+            "keyedPixels": 134978,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 134520
+          },
+          "crossClipDestination": [
+            47,
+            158,
+            386,
+            266
+          ],
+          "destination": [
+            27,
+            142,
+            410,
+            282
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_01.png",
+          "globalScaleDestination": [
+            48,
+            170,
+            369,
+            254
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            47,
+            158,
+            433,
+            424
+          ],
+          "sha256": "759879b5477067df9a8063734d5ab7647e6cbaa6f54102cf5876ce085fd00686",
+          "sourceAlphaBounds": [
+            49,
+            177,
+            388,
+            410
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 83283
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 792,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 13,
+            "keyedPixels": 138765,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 138328
+          },
+          "crossClipDestination": [
+            43,
+            192,
+            394,
+            232
+          ],
+          "destination": [
+            17,
+            179,
+            414,
+            245
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_02.png",
+          "globalScaleDestination": [
+            38,
+            204,
+            373,
+            220
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 13,
+          "outputAlphaBounds": [
+            43,
+            192,
+            437,
+            424
+          ],
+          "sha256": "77d81745f749048f80b0fe057c00407e2f5b7cf80880136c7aa8ca32ff1534cb",
+          "sourceAlphaBounds": [
+            41,
+            209,
+            383,
+            412
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 79172
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 760,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 14,
+            "keyedPixels": 139885,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 139031
+          },
+          "crossClipDestination": [
+            45,
+            169,
+            390,
+            255
+          ],
+          "destination": [
+            18,
+            159,
+            406,
+            265
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_03.png",
+          "globalScaleDestination": [
+            38,
+            186,
+            365,
+            238
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            45,
+            169,
+            435,
+            424
+          ],
+          "sha256": "2794ab6a0f3d6a053a199feb1c42c033b0eac083f5d9f091d193335b6dd3dc5d",
+          "sourceAlphaBounds": [
+            42,
+            197,
+            378,
+            416
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 80299
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 783,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 22,
+            "keyedPixels": 138842,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 138416
+          },
+          "crossClipDestination": [
+            40,
+            164,
+            399,
+            260
+          ],
+          "destination": [
+            51,
+            157,
+            409,
+            267
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_04.png",
+          "globalScaleDestination": [
+            72,
+            184,
+            368,
+            240
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            164,
+            439,
+            424
+          ],
+          "sha256": "4cd9c91b53afbdd6a3792b5179b1f42d1b87de57fbbdfe4446ce2b3ca8c3d6ce",
+          "sourceAlphaBounds": [
+            69,
+            109,
+            407,
+            330
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 83490
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 781,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 20,
+            "keyedPixels": 135395,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 135417
+          },
+          "crossClipDestination": [
+            40,
+            134,
+            400,
+            290
+          ],
+          "destination": [
+            31,
+            131,
+            406,
+            293
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_05.png",
+          "globalScaleDestination": [
+            52,
+            160,
+            365,
+            264
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            40,
+            134,
+            440,
+            424
+          ],
+          "sha256": "a45512d76c98d1a1c6ffaee56c4b6d62bef0a912c52a7fb1108597974f10efcf",
+          "sourceAlphaBounds": [
+            53,
+            89,
+            389,
+            331
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 90137
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 823,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 25,
+            "keyedPixels": 135408,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 135380
+          },
+          "crossClipDestination": [
+            38,
+            132,
+            403,
+            292
+          ],
+          "destination": [
+            31,
+            131,
+            405,
+            293
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_06.png",
+          "globalScaleDestination": [
+            52,
+            160,
+            364,
+            264
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            38,
+            132,
+            441,
+            424
+          ],
+          "sha256": "99dd89a07ffccb89f39d96beb31744ef0624324c921c77a24e4fec3b741062c1",
+          "sourceAlphaBounds": [
+            53,
+            89,
+            388,
+            331
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 91674
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 752,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 22,
+            "keyedPixels": 137367,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 136981
+          },
+          "crossClipDestination": [
+            42,
+            129,
+            395,
+            295
+          ],
+          "destination": [
+            39,
+            129,
+            395,
+            295
+          ],
+          "file": "pet_loaf/douhua_pet_loaf_07.png",
+          "globalScaleDestination": [
+            58,
+            158,
+            356,
+            266
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            129,
+            437,
+            424
+          ],
+          "sha256": "64b46c04ec132b1bf4d0e2b0f5f80d664419a40782ea941ff4cbb188d1eaf6f1",
+          "sourceAlphaBounds": [
+            59,
+            88,
+            386,
+            332
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 89994
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "pet_loaf",
+      "sharedScale": 1.21081081,
+      "sharedSourceSlotAnchorX": 236,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-222e63e9-340e-4c2b-a35f-881ea6d20e37.png",
+      "sourceSha256": "348e1fc7a5df84119846d842557f3afdf7508e287a1b3acce7586322bbd5914a"
+    },
+    {
+      "cellSize": [
+        418,
+        471
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.02503258,
+          1.02763325,
+          1.03434025,
+          1.04351104,
+          1.05350309,
+          1.06267389,
+          1.06938088,
+          1.07198155
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.02503258,
+        "sourceState": "observing",
+        "targetEndpointScale": 1.07198155,
+        "targetState": "observing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 577,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 19,
+            "keyedPixels": 163831,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 163652
+          },
+          "crossClipDestination": [
+            134,
+            55,
+            268,
+            369
+          ],
+          "destination": [
+            174,
+            24,
+            290,
+            400
+          ],
+          "file": "pet_observe/douhua_pet_observe_00.png",
+          "globalScaleDestination": [
+            188,
+            64,
+            261,
+            360
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            134,
+            55,
+            402,
+            424
+          ],
+          "sha256": "828140765f61720ac207089bf4afd02aafde2403068d38c98837d09b80ae1e64",
+          "sourceAlphaBounds": [
+            174,
+            154,
+            363,
+            414
+          ],
+          "sourceCell": [
+            0,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 69020
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 541,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 14,
+            "keyedPixels": 165365,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 165221
+          },
+          "crossClipDestination": [
+            136,
+            64,
+            263,
+            360
+          ],
+          "destination": [
+            129,
+            35,
+            284,
+            389
+          ],
+          "file": "pet_observe/douhua_pet_observe_01.png",
+          "globalScaleDestination": [
+            143,
+            74,
+            256,
+            350
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 18,
+          "outputAlphaBounds": [
+            136,
+            64,
+            399,
+            424
+          ],
+          "sha256": "e3e7a998daf4a59385a5b8c8d9d1d4b238adebc9f3554f352513b0db50f6c131",
+          "sourceAlphaBounds": [
+            145,
+            161,
+            330,
+            414
+          ],
+          "sourceCell": [
+            418,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 66098
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 571,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 14,
+            "keyedPixels": 165828,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 165676
+          },
+          "crossClipDestination": [
+            139,
+            44,
+            257,
+            380
+          ],
+          "destination": [
+            86,
+            16,
+            275,
+            408
+          ],
+          "file": "pet_observe/douhua_pet_observe_02.png",
+          "globalScaleDestination": [
+            100,
+            57,
+            248,
+            367
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 22,
+          "outputAlphaBounds": [
+            139,
+            44,
+            396,
+            424
+          ],
+          "sha256": "0590ed2f01e63360a52de055dfd8d7132681e564e55d471f44d985875dcca987",
+          "sourceAlphaBounds": [
+            117,
+            149,
+            296,
+            414
+          ],
+          "sourceCell": [
+            836,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 66410
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 574,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 14,
+            "keyedPixels": 165751,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 165584
+          },
+          "crossClipDestination": [
+            136,
+            50,
+            264,
+            374
+          ],
+          "destination": [
+            40,
+            26,
+            281,
+            398
+          ],
+          "file": "pet_observe/douhua_pet_observe_03.png",
+          "globalScaleDestination": [
+            54,
+            66,
+            253,
+            358
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 19,
+          "outputAlphaBounds": [
+            136,
+            50,
+            400,
+            424
+          ],
+          "sha256": "581bfb8e65ed5600d3dbd67de66b8b09df0ed6c562c571c7705665719cba3cdb",
+          "sourceAlphaBounds": [
+            87,
+            155,
+            270,
+            414
+          ],
+          "sourceCell": [
+            1254,
+            0,
+            418,
+            470
+          ],
+          "visiblePixels": 67323
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 578,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 13,
+            "keyedPixels": 166254,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 165668
+          },
+          "crossClipDestination": [
+            137,
+            39,
+            261,
+            385
+          ],
+          "destination": [
+            182,
+            18,
+            275,
+            406
+          ],
+          "file": "pet_observe/douhua_pet_observe_04.png",
+          "globalScaleDestination": [
+            196,
+            59,
+            248,
+            365
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            137,
+            39,
+            398,
+            424
+          ],
+          "sha256": "df714f2d42c71616ce746dd07dd13dfa3a2617d04f7c05815f6b34c1080c12c2",
+          "sourceAlphaBounds": [
+            179,
+            93,
+            358,
+            357
+          ],
+          "sourceCell": [
+            0,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 68652
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 582,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 17,
+            "keyedPixels": 166995,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 166399
+          },
+          "crossClipDestination": [
+            134,
+            45,
+            268,
+            379
+          ],
+          "destination": [
+            116,
+            27,
+            280,
+            397
+          ],
+          "file": "pet_observe/douhua_pet_observe_05.png",
+          "globalScaleDestination": [
+            130,
+            67,
+            252,
+            357
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            134,
+            45,
+            402,
+            424
+          ],
+          "sha256": "c10d5b0dbb6a47fc3dc3acfb8aaa8d8463498fe91e16bc64e23d120c45f12126",
+          "sourceAlphaBounds": [
+            136,
+            100,
+            318,
+            358
+          ],
+          "sourceCell": [
+            418,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 68175
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 568,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 17,
+            "keyedPixels": 167406,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 166829
+          },
+          "crossClipDestination": [
+            134,
+            48,
+            267,
+            376
+          ],
+          "destination": [
+            83,
+            33,
+            278,
+            391
+          ],
+          "file": "pet_observe/douhua_pet_observe_06.png",
+          "globalScaleDestination": [
+            97,
+            72,
+            250,
+            352
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            134,
+            48,
+            401,
+            424
+          ],
+          "sha256": "329aa84aa4fe5ec57a3b89a41348f03c92ee35bc71f7ff00dd26767943e8a4bf",
+          "sourceAlphaBounds": [
+            115,
+            103,
+            296,
+            357
+          ],
+          "sourceCell": [
+            836,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 67870
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 563,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 12,
+            "keyedPixels": 166985,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 166396
+          },
+          "crossClipDestination": [
+            138,
+            43,
+            259,
+            381
+          ],
+          "destination": [
+            57,
+            30,
+            269,
+            394
+          ],
+          "file": "pet_observe/douhua_pet_observe_07.png",
+          "globalScaleDestination": [
+            70,
+            69,
+            242,
+            355
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            138,
+            43,
+            397,
+            424
+          ],
+          "sha256": "a563f17bdf2a6acc4403464875be41ad21122caa7ff8ec2b3a0f1bfa836f6e02",
+          "sourceAlphaBounds": [
+            98,
+            102,
+            273,
+            358
+          ],
+          "sourceCell": [
+            1254,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 69381
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ],
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ]
+        ],
+        "y": [
+          0,
+          470,
+          941
+        ]
+      },
+      "name": "pet_observe",
+      "sharedScale": 1.53962264,
+      "sharedSourceSlotAnchorX": 228,
+      "sheetSize": [
+        1672,
+        941
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-a57fd967-2f5b-43a5-a096-791b65eba0e0.png",
+      "sourceSha256": "58a537583f5381ab6e2a478da302c5d9f68583bc3e4fa390be07f16b496dca30"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.02728581,
+          1.02786748,
+          1.02936757,
+          1.03141872,
+          1.03365355,
+          1.03570469,
+          1.03720478,
+          1.03778645
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.02728581,
+        "sourceState": "sleeping",
+        "targetEndpointScale": 1.03778645,
+        "targetState": "sleeping"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 945,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 26,
+            "keyedPixels": 155125,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154143
+          },
+          "crossClipDestination": [
+            51,
+            271,
+            390,
+            153
+          ],
+          "destination": [
+            41,
+            258,
+            422,
+            166
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_00.png",
+          "globalScaleDestination": [
+            62,
+            275,
+            380,
+            149
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 19,
+          "outputAlphaBounds": [
+            51,
+            271,
+            441,
+            424
+          ],
+          "sha256": "0ae04e661ad48f0587651564ead3be17fad3db336d421293ce1d04b88303973c",
+          "sourceAlphaBounds": [
+            31,
+            179,
+            430,
+            336
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 42332
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 951,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 19,
+            "keyedPixels": 155326,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154790
+          },
+          "crossClipDestination": [
+            53,
+            273,
+            386,
+            151
+          ],
+          "destination": [
+            38,
+            261,
+            418,
+            163
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_01.png",
+          "globalScaleDestination": [
+            59,
+            277,
+            376,
+            147
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            53,
+            273,
+            439,
+            424
+          ],
+          "sha256": "4705674afde5702bfe2b15eeeb68de5ba6a122c8adae221e61e899bbcb31f23a",
+          "sourceAlphaBounds": [
+            28,
+            181,
+            423,
+            335
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 41929
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 924,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 16,
+            "keyedPixels": 156375,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155866
+          },
+          "crossClipDestination": [
+            54,
+            278,
+            383,
+            146
+          ],
+          "destination": [
+            36,
+            266,
+            413,
+            158
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_02.png",
+          "globalScaleDestination": [
+            56,
+            282,
+            372,
+            142
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 20,
+          "outputAlphaBounds": [
+            54,
+            278,
+            437,
+            424
+          ],
+          "sha256": "1945cfda0c053226d48cf5cef3cac841cd976f39d08b56b45c0dcddde4548c90",
+          "sourceAlphaBounds": [
+            27,
+            185,
+            417,
+            335
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 40720
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 956,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 31,
+            "keyedPixels": 155116,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154138
+          },
+          "crossClipDestination": [
+            50,
+            277,
+            393,
+            147
+          ],
+          "destination": [
+            18,
+            265,
+            423,
+            159
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_03.png",
+          "globalScaleDestination": [
+            39,
+            281,
+            381,
+            143
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 17,
+          "outputAlphaBounds": [
+            50,
+            277,
+            443,
+            424
+          ],
+          "sha256": "014074b231420fcfbb994d7780c65c2fcd0312011751736a4b8c323fea48b687",
+          "sourceAlphaBounds": [
+            10,
+            184,
+            410,
+            335
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 42488
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 932,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 32,
+            "keyedPixels": 154549,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154018
+          },
+          "crossClipDestination": [
+            48,
+            272,
+            395,
+            152
+          ],
+          "destination": [
+            40,
+            261,
+            424,
+            163
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_04.png",
+          "globalScaleDestination": [
+            61,
+            277,
+            382,
+            147
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            48,
+            272,
+            443,
+            424
+          ],
+          "sha256": "9c3ef7ff0c0ef9ddf78a3d2016ecf7c9f7ff21fd9c8f2818d48b3bb17cb22ce5",
+          "sourceAlphaBounds": [
+            30,
+            137,
+            431,
+            291
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 43272
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 926,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 17,
+            "keyedPixels": 154430,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154342
+          },
+          "crossClipDestination": [
+            49,
+            270,
+            394,
+            154
+          ],
+          "destination": [
+            35,
+            258,
+            422,
+            166
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_05.png",
+          "globalScaleDestination": [
+            56,
+            275,
+            380,
+            149
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 14,
+          "outputAlphaBounds": [
+            49,
+            270,
+            443,
+            424
+          ],
+          "sha256": "a9ad870c0302ad605dac53f3a51b31a2f22bbcb06b4796149f2b508b47888f15",
+          "sourceAlphaBounds": [
+            26,
+            136,
+            425,
+            293
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 42954
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 923,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 34,
+            "keyedPixels": 154317,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154222
+          },
+          "crossClipDestination": [
+            50,
+            270,
+            392,
+            154
+          ],
+          "destination": [
+            28,
+            259,
+            420,
+            165
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_06.png",
+          "globalScaleDestination": [
+            49,
+            276,
+            378,
+            148
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 12,
+          "outputAlphaBounds": [
+            50,
+            270,
+            442,
+            424
+          ],
+          "sha256": "9d8b50c80efb2470542112949209f1a506f1df963a2509e310ebea5f0c01da0f",
+          "sourceAlphaBounds": [
+            19,
+            135,
+            416,
+            291
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 43169
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 901,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 31,
+            "keyedPixels": 155343,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 154827
+          },
+          "crossClipDestination": [
+            49,
+            272,
+            394,
+            152
+          ],
+          "destination": [
+            16,
+            262,
+            422,
+            162
+          ],
+          "file": "pet_sleep/douhua_pet_sleep_07.png",
+          "globalScaleDestination": [
+            37,
+            278,
+            380,
+            146
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 22,
+          "outputAlphaBounds": [
+            49,
+            272,
+            443,
+            424
+          ],
+          "sha256": "cca60e9332682ac7348ea8f1910011831923f650076af2195165946ba91cd918",
+          "sourceAlphaBounds": [
+            8,
+            138,
+            407,
+            291
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 42828
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "pet_sleep",
+      "sharedScale": 1.05910165,
+      "sharedSourceSlotAnchorX": 243,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-c4126936-ab8b-4ec6-9013-319ecae3c16a.png",
+      "sourceSha256": "007c874c899edb886a6037556e4f8aff6e9b96a391ca057d80397bfc651edfaa"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1088,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 37,
+            "keyedPixels": 152416,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151287
+          },
+          "destination": [
+            31,
+            253,
+            431,
+            171
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_00.png",
+          "globalScaleDestination": [
+            52,
+            270,
+            388,
+            154
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 18,
+          "outputAlphaBounds": [
+            52,
+            270,
+            440,
+            424
+          ],
+          "sha256": "cd119dcd6781cc5db85717acc39cfeca21ebf8d68904ac41b8cac4de0459422d",
+          "sourceAlphaBounds": [
+            24,
+            141,
+            434,
+            304
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 42060
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1082,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 44,
+            "keyedPixels": 151787,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151116
+          },
+          "destination": [
+            26,
+            253,
+            432,
+            171
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_01.png",
+          "globalScaleDestination": [
+            48,
+            270,
+            389,
+            154
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 21,
+          "outputAlphaBounds": [
+            48,
+            270,
+            437,
+            424
+          ],
+          "sha256": "24559ca23020e74cb1ef644a0ccf1f056e2c5faeddb3c974dc5d33dcda1f4673",
+          "sourceAlphaBounds": [
+            19,
+            142,
+            430,
+            305
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 42236
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1086,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 45,
+            "keyedPixels": 152329,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151670
+          },
+          "destination": [
+            21,
+            257,
+            435,
+            167
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_02.png",
+          "globalScaleDestination": [
+            42,
+            274,
+            392,
+            150
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            274,
+            434,
+            424
+          ],
+          "sha256": "4c029ef922400b62bb8c57cd525872dc7c7a2c50222d1f5cfef4633c23cc3113",
+          "sourceAlphaBounds": [
+            15,
+            147,
+            429,
+            306
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 41695
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1072,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 36,
+            "keyedPixels": 153930,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 152818
+          },
+          "destination": [
+            16,
+            264,
+            436,
+            160
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_03.png",
+          "globalScaleDestination": [
+            38,
+            280,
+            392,
+            144
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            38,
+            280,
+            430,
+            424
+          ],
+          "sha256": "b4c90d334c91e1bfc02e903562a622ed3e96b8a723ad4eb89cc5b67167f2249c",
+          "sourceAlphaBounds": [
+            10,
+            153,
+            425,
+            306
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 40429
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1122,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 35,
+            "keyedPixels": 152014,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151305
+          },
+          "destination": [
+            31,
+            254,
+            433,
+            170
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_04.png",
+          "globalScaleDestination": [
+            52,
+            271,
+            390,
+            153
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 23,
+          "outputAlphaBounds": [
+            52,
+            271,
+            442,
+            424
+          ],
+          "sha256": "c8c3107843c3fefb0a30ba8e109ee7e9112e64d4664da2b504a10cac58ae0f54",
+          "sourceAlphaBounds": [
+            24,
+            142,
+            436,
+            304
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 42040
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1091,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 37,
+            "keyedPixels": 151605,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151370
+          },
+          "destination": [
+            24,
+            254,
+            433,
+            170
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_05.png",
+          "globalScaleDestination": [
+            46,
+            271,
+            390,
+            153
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 19,
+          "outputAlphaBounds": [
+            46,
+            271,
+            436,
+            424
+          ],
+          "sha256": "41ee9d68f3899bf6b56b9277d47ec0a8626361d0e185b9b34dd4bf2b65263899",
+          "sourceAlphaBounds": [
+            18,
+            142,
+            430,
+            304
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 42038
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1105,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 44,
+            "keyedPixels": 150343,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 150099
+          },
+          "destination": [
+            20,
+            250,
+            436,
+            174
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_06.png",
+          "globalScaleDestination": [
+            42,
+            267,
+            392,
+            157
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            267,
+            434,
+            424
+          ],
+          "sha256": "83e3adfbe64eabcfd5e22f8ea8fa283850730bbd3174e968a0906167cc0b082e",
+          "sourceAlphaBounds": [
+            14,
+            138,
+            429,
+            304
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 43241
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1110,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 34,
+            "keyedPixels": 152027,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151358
+          },
+          "destination": [
+            18,
+            256,
+            436,
+            168
+          ],
+          "file": "sleep_breathe/douhua_sleep_breathe_07.png",
+          "globalScaleDestination": [
+            40,
+            273,
+            392,
+            151
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 23,
+          "outputAlphaBounds": [
+            40,
+            273,
+            432,
+            424
+          ],
+          "sha256": "672f294eeab78205e1e4a06b280ff3c9a99e2afa19a52e8ed741b2c9719fd2e5",
+          "sourceAlphaBounds": [
+            12,
+            144,
+            427,
+            304
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 42030
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "sleep_breathe",
+      "sharedScale": 1.05164319,
+      "sharedSourceSlotAnchorX": 239,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-be7c6ccf-af52-44d4-b4db-2f2ef3610417.png",
+      "sourceSha256": "7e90e89b314646197f04b986b4eace018e3deb573515569f2330ba6ff132b001"
+    },
+    {
+      "cellSize": [
+        455,
+        444
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.05701348,
+          1.10227956,
+          1.21901839,
+          1.21081081,
+          1.25842697,
+          1.62318841,
+          1.82857143,
+          1.87418534
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.05701348,
+        "sourceState": "sleeping",
+        "targetEndpointScale": 1.87418534,
+        "targetState": "loafing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1155,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 74,
+            "keyedPixels": 157701,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 160020
+          },
+          "crossClipDestination": [
+            44,
+            276,
+            404,
+            148
+          ],
+          "destination": [
+            38,
+            269,
+            425,
+            155
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_00.png",
+          "globalScaleDestination": [
+            60,
+            284,
+            382,
+            140
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            44,
+            276,
+            448,
+            424
+          ],
+          "sha256": "f2f6e949e0c6aa5f26380c3b87e98cea0429400e39ad1a7a88b547835019e3d0",
+          "sourceAlphaBounds": [
+            24,
+            155,
+            451,
+            311
+          ],
+          "sourceCell": [
+            0,
+            0,
+            447,
+            444
+          ],
+          "visiblePixels": 38930
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1062,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 66,
+            "keyedPixels": 156527,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 162090
+          },
+          "crossClipDestination": [
+            62,
+            285,
+            367,
+            139
+          ],
+          "destination": [
+            61,
+            284,
+            370,
+            140
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_01.png",
+          "globalScaleDestination": [
+            80,
+            298,
+            333,
+            126
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 22,
+          "outputAlphaBounds": [
+            62,
+            285,
+            429,
+            424
+          ],
+          "sha256": "6f8af9fa899fdbafd9a7d220ac755a97c16fe59557712b82da22d80f6aeaa2e3",
+          "sourceAlphaBounds": [
+            47,
+            169,
+            419,
+            310
+          ],
+          "sourceCell": [
+            447,
+            0,
+            440,
+            444
+          ],
+          "visiblePixels": 39905
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1323,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 107,
+            "keyedPixels": 150274,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 159114
+          },
+          "crossClipDestination": [
+            38,
+            219,
+            413,
+            205
+          ],
+          "destination": [
+            37,
+            237,
+            377,
+            187
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_02.png",
+          "globalScaleDestination": [
+            56,
+            256,
+            339,
+            168
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            38,
+            219,
+            451,
+            424
+          ],
+          "sha256": "2c4a65cf017cbb49d91f24f20b7fceb40c2e221964598f7f20dd77b13ac6b280",
+          "sourceAlphaBounds": [
+            23,
+            135,
+            402,
+            323
+          ],
+          "sourceCell": [
+            887,
+            0,
+            432,
+            444
+          ],
+          "visiblePixels": 52564
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1282,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 101,
+            "keyedPixels": 161069,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 159702
+          },
+          "crossClipDestination": [
+            16,
+            195,
+            448,
+            229
+          ],
+          "destination": [
+            16,
+            214,
+            411,
+            210
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_03.png",
+          "globalScaleDestination": [
+            36,
+            235,
+            370,
+            189
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            195,
+            464,
+            424
+          ],
+          "sha256": "c507021b85ee0d5ff2234c47f6d2fe2899601becf95e41f97b97790dbe3dc1f9",
+          "sourceAlphaBounds": [
+            1,
+            108,
+            414,
+            319
+          ],
+          "sourceCell": [
+            1319,
+            0,
+            455,
+            444
+          ],
+          "visiblePixels": 51581
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1756,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 295,
+            "keyedPixels": 146403,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 149887
+          },
+          "crossClipDestination": [
+            16,
+            215,
+            448,
+            209
+          ],
+          "destination": [
+            56,
+            240,
+            395,
+            184
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_04.png",
+          "globalScaleDestination": [
+            76,
+            258,
+            356,
+            166
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            215,
+            464,
+            424
+          ],
+          "sha256": "1155e16e1ce2a2b7ab051dae6e3cedb5b8f60b56e00cbb41b3cb5388db03b9d0",
+          "sourceAlphaBounds": [
+            42,
+            86,
+            439,
+            271
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 68484
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1004,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 78,
+            "keyedPixels": 154302,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 159022
+          },
+          "crossClipDestination": [
+            16,
+            168,
+            448,
+            256
+          ],
+          "destination": [
+            78,
+            249,
+            307,
+            175
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_05.png",
+          "globalScaleDestination": [
+            94,
+            266,
+            276,
+            158
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            168,
+            464,
+            424
+          ],
+          "sha256": "767fc97909b1ca653e5dda4748199f5bab651b8e1c193f73fc6c3ff0628d6705",
+          "sourceAlphaBounds": [
+            64,
+            107,
+            373,
+            283
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 92841
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 828,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 33,
+            "keyedPixels": 155887,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 160739
+          },
+          "crossClipDestination": [
+            16,
+            122,
+            448,
+            302
+          ],
+          "destination": [
+            88,
+            241,
+            272,
+            183
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_06.png",
+          "globalScaleDestination": [
+            102,
+            259,
+            245,
+            165
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            16,
+            122,
+            464,
+            424
+          ],
+          "sha256": "288bc49d70fe92449284a73f10de2553056eb8ef76ef30ba85d477bbe211d31e",
+          "sourceAlphaBounds": [
+            74,
+            104,
+            348,
+            288
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 113355
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 815,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 77,
+            "keyedPixels": 164852,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 169274
+          },
+          "crossClipDestination": [
+            49,
+            119,
+            382,
+            305
+          ],
+          "destination": [
+            89,
+            243,
+            227,
+            181
+          ],
+          "file": "sleep_to_loaf/douhua_sleep_to_loaf_07.png",
+          "globalScaleDestination": [
+            100,
+            261,
+            204,
+            163
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            49,
+            119,
+            431,
+            424
+          ],
+          "sha256": "11372f6807c1ebbe6e7bba864497b2227c4a0768f7db01783781ebafeb27d827",
+          "sourceAlphaBounds": [
+            75,
+            105,
+            304,
+            287
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 93991
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            447,
+            887,
+            1319,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "sleep_to_loaf",
+      "sharedScale": 0.99555556,
+      "sharedSourceSlotAnchorX": 241,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-341345fd-3a62-43bb-8e53-5c965035107f.png",
+      "sourceSha256": "3ea148deb5195134e848e16b9b83af2b0345a29adff70b26d007d6ee6df4df08"
+    },
+    {
+      "cellSize": [
+        444,
+        444
+      ],
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1382,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 123,
+            "keyedPixels": 157406,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155867
+          },
+          "destination": [
+            41,
+            222,
+            423,
+            202
+          ],
+          "file": "walk_loop/douhua_walk_loop_00.png",
+          "globalScaleDestination": [
+            62,
+            242,
+            381,
+            182
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            62,
+            242,
+            443,
+            424
+          ],
+          "sha256": "a03bb97a61fa65f64d35f1bf0180b1850fcb707842536618e22c7e97e73e5dfb",
+          "sourceAlphaBounds": [
+            41,
+            143,
+            439,
+            333
+          ],
+          "sourceCell": [
+            0,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 39522
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1324,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 61,
+            "keyedPixels": 156557,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155539
+          },
+          "destination": [
+            30,
+            223,
+            425,
+            201
+          ],
+          "file": "walk_loop/douhua_walk_loop_01.png",
+          "globalScaleDestination": [
+            52,
+            243,
+            382,
+            181
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            52,
+            243,
+            434,
+            424
+          ],
+          "sha256": "6239147567642c379cc1920ec52c8b0d9d2e26a9be9123a583d80dfb7c0edd88",
+          "sourceAlphaBounds": [
+            30,
+            149,
+            430,
+            338
+          ],
+          "sourceCell": [
+            444,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 39700
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1307,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 60,
+            "keyedPixels": 157352,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 156340
+          },
+          "destination": [
+            31,
+            228,
+            428,
+            196
+          ],
+          "file": "walk_loop/douhua_walk_loop_02.png",
+          "globalScaleDestination": [
+            52,
+            248,
+            385,
+            176
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            52,
+            248,
+            437,
+            424
+          ],
+          "sha256": "7f86386f2e64163af4c740d81d381b3db9a77a39b090c117e100fb6b1890e67b",
+          "sourceAlphaBounds": [
+            31,
+            154,
+            434,
+            339
+          ],
+          "sourceCell": [
+            887,
+            0,
+            443,
+            444
+          ],
+          "visiblePixels": 38658
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1247,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 48,
+            "keyedPixels": 157354,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155941
+          },
+          "destination": [
+            25,
+            235,
+            426,
+            189
+          ],
+          "file": "walk_loop/douhua_walk_loop_03.png",
+          "globalScaleDestination": [
+            46,
+            254,
+            383,
+            170
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 21,
+          "outputAlphaBounds": [
+            46,
+            254,
+            429,
+            424
+          ],
+          "sha256": "28fa945dd3038271431b45e2530a585d4c7aefc65c1030595050f790ad60ad76",
+          "sourceAlphaBounds": [
+            26,
+            161,
+            427,
+            339
+          ],
+          "sourceCell": [
+            1330,
+            0,
+            444,
+            444
+          ],
+          "visiblePixels": 39089
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1354,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 49,
+            "keyedPixels": 153784,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 152749
+          },
+          "destination": [
+            30,
+            223,
+            434,
+            201
+          ],
+          "file": "walk_loop/douhua_walk_loop_04.png",
+          "globalScaleDestination": [
+            52,
+            243,
+            391,
+            181
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 22,
+          "outputAlphaBounds": [
+            52,
+            243,
+            443,
+            424
+          ],
+          "sha256": "5415c4cd0f2bcf35c675912edab8c02be68d2ee44235af71e6bd4fa6468abea9",
+          "sourceAlphaBounds": [
+            30,
+            148,
+            438,
+            337
+          ],
+          "sourceCell": [
+            0,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 42408
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1344,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 60,
+            "keyedPixels": 153594,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 153001
+          },
+          "destination": [
+            17,
+            235,
+            430,
+            189
+          ],
+          "file": "walk_loop/douhua_walk_loop_05.png",
+          "globalScaleDestination": [
+            38,
+            254,
+            387,
+            170
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            38,
+            254,
+            425,
+            424
+          ],
+          "sha256": "34939d500813c0c42b700b466f29087f2305242cf5bcff0d5fd88375cf8a835b",
+          "sourceAlphaBounds": [
+            18,
+            157,
+            423,
+            335
+          ],
+          "sourceCell": [
+            444,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 41821
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1310,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 45,
+            "keyedPixels": 155881,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 155294
+          },
+          "destination": [
+            18,
+            233,
+            433,
+            191
+          ],
+          "file": "walk_loop/douhua_walk_loop_06.png",
+          "globalScaleDestination": [
+            40,
+            252,
+            390,
+            172
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 23,
+          "outputAlphaBounds": [
+            40,
+            252,
+            430,
+            424
+          ],
+          "sha256": "dd4507f848b05dd6c312d94f3c2e5930273b2ff10c6b1951f04100301b6c2574",
+          "sourceAlphaBounds": [
+            19,
+            158,
+            426,
+            338
+          ],
+          "sourceCell": [
+            887,
+            444,
+            443,
+            443
+          ],
+          "visiblePixels": 39899
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1356,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 52,
+            "keyedPixels": 152631,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 151578
+          },
+          "destination": [
+            20,
+            226,
+            443,
+            198
+          ],
+          "file": "walk_loop/douhua_walk_loop_07.png",
+          "globalScaleDestination": [
+            42,
+            246,
+            399,
+            178
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            42,
+            246,
+            441,
+            424
+          ],
+          "sha256": "f42b583d7b7fc64ed4c846e5d6534d8a9706352abc6abc7c44cd459ebdaed918",
+          "sourceAlphaBounds": [
+            21,
+            157,
+            438,
+            344
+          ],
+          "sourceCell": [
+            1330,
+            444,
+            444,
+            443
+          ],
+          "visiblePixels": 43121
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ],
+          [
+            0,
+            444,
+            887,
+            1330,
+            1774
+          ]
+        ],
+        "y": [
+          0,
+          444,
+          887
+        ]
+      },
+      "name": "walk_loop",
+      "sharedScale": 1.06413302,
+      "sharedSourceSlotAnchorX": 234,
+      "sheetSize": [
+        1774,
+        887
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-09088212-f0b6-4475-91e6-6acfb7d56515.png",
+      "sourceSha256": "374e21c7ec76ad7b2dd62c389bcceb917d24de79a5e54c3b626c0e2f193413f8"
+    },
+    {
+      "cellSize": [
+        438,
+        471
+      ],
+      "crossClipNormalization": {
+        "appliedScales": [
+          1.04383798,
+          1.07065902,
+          1.13982908,
+          1.23440854,
+          1.3374578,
+          1.43203726,
+          1.47826087,
+          1.52802835
+        ],
+        "easing": "smoothstep",
+        "root": [
+          240,
+          424
+        ],
+        "sourceEndpointScale": 1.04383798,
+        "sourceState": "walking",
+        "targetEndpointScale": 1.52802835,
+        "targetState": "observing"
+      },
+      "frameCount": 8,
+      "frames": [
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1098,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 60,
+            "keyedPixels": 165898,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 167453
+          },
+          "crossClipDestination": [
+            60,
+            244,
+            386,
+            180
+          ],
+          "destination": [
+            49,
+            232,
+            411,
+            192
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_00.png",
+          "globalScaleDestination": [
+            70,
+            252,
+            370,
+            172
+          ],
+          "index": 0,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            60,
+            244,
+            446,
+            424
+          ],
+          "sha256": "749050c71cd928d4eb684cfcd54c96f23c08f05068d68ea73c00aa5607c326b0",
+          "sourceAlphaBounds": [
+            46,
+            167,
+            435,
+            349
+          ],
+          "sourceCell": [
+            0,
+            0,
+            433,
+            470
+          ],
+          "visiblePixels": 40370
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1041,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 48,
+            "keyedPixels": 152342,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 166181
+          },
+          "crossClipDestination": [
+            46,
+            192,
+            415,
+            232
+          ],
+          "destination": [
+            16,
+            183,
+            431,
+            241
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_01.png",
+          "globalScaleDestination": [
+            38,
+            207,
+            388,
+            217
+          ],
+          "index": 1,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            46,
+            192,
+            461,
+            424
+          ],
+          "sha256": "d6289c6a8c291102f38c7f5d79b5913f607917c02119e0aa23da119bb978b774",
+          "sourceAlphaBounds": [
+            15,
+            131,
+            422,
+            359
+          ],
+          "sourceCell": [
+            433,
+            0,
+            407,
+            470
+          ],
+          "visiblePixels": 43663
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 1013,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 34,
+            "keyedPixels": 167733,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 167064
+          },
+          "crossClipDestination": [
+            40,
+            206,
+            424,
+            218
+          ],
+          "destination": [
+            51,
+            212,
+            413,
+            212
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_02.png",
+          "globalScaleDestination": [
+            72,
+            233,
+            372,
+            191
+          ],
+          "index": 2,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 18,
+          "outputAlphaBounds": [
+            40,
+            206,
+            464,
+            424
+          ],
+          "sha256": "03ace73fb427d76485b9b656dbedd8f14d8ec30d27e6ba02845bb5f126212c81",
+          "sourceAlphaBounds": [
+            48,
+            157,
+            438,
+            358
+          ],
+          "sourceCell": [
+            840,
+            0,
+            438,
+            470
+          ],
+          "visiblePixels": 48487
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 831,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 24,
+            "keyedPixels": 149038,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 169288
+          },
+          "crossClipDestination": [
+            88,
+            159,
+            341,
+            265
+          ],
+          "destination": [
+            48,
+            185,
+            307,
+            239
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_03.png",
+          "globalScaleDestination": [
+            64,
+            209,
+            276,
+            215
+          ],
+          "index": 3,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            88,
+            159,
+            429,
+            424
+          ],
+          "sha256": "eb88255d47b9114030f5de98a5c6f3c69028390ef8d60d0a5ce31970627e6bbe",
+          "sourceAlphaBounds": [
+            45,
+            145,
+            335,
+            371
+          ],
+          "sourceCell": [
+            1278,
+            0,
+            394,
+            470
+          ],
+          "visiblePixels": 53019
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 836,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 26,
+            "keyedPixels": 155473,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 164011
+          },
+          "crossClipDestination": [
+            106,
+            66,
+            312,
+            358
+          ],
+          "destination": [
+            128,
+            125,
+            259,
+            299
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_04.png",
+          "globalScaleDestination": [
+            141,
+            156,
+            233,
+            268
+          ],
+          "index": 4,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            106,
+            66,
+            418,
+            424
+          ],
+          "sha256": "4ca44271c6832a9591e97b8b527b006fb0b94267cbc392ef652237d44b5f9ae8",
+          "sourceAlphaBounds": [
+            121,
+            48,
+            366,
+            331
+          ],
+          "sourceCell": [
+            0,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 70632
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 777,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 18,
+            "keyedPixels": 156261,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 164870
+          },
+          "crossClipDestination": [
+            114,
+            52,
+            302,
+            372
+          ],
+          "destination": [
+            118,
+            135,
+            234,
+            289
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_05.png",
+          "globalScaleDestination": [
+            130,
+            164,
+            211,
+            260
+          ],
+          "index": 5,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            114,
+            52,
+            416,
+            424
+          ],
+          "sha256": "038ed2361c4ced986b4911c16b80ad30e84648c9055857509d7a1d8bc736769f",
+          "sourceAlphaBounds": [
+            111,
+            57,
+            332,
+            330
+          ],
+          "sourceCell": [
+            418,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 79483
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 779,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 25,
+            "keyedPixels": 155727,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 164334
+          },
+          "crossClipDestination": [
+            116,
+            16,
+            302,
+            408
+          ],
+          "destination": [
+            106,
+            117,
+            227,
+            307
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_06.png",
+          "globalScaleDestination": [
+            118,
+            148,
+            204,
+            276
+          ],
+          "index": 6,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 24,
+          "outputAlphaBounds": [
+            116,
+            16,
+            418,
+            424
+          ],
+          "sha256": "768aae57bc55d930f913fd5942916eb1f6c672e4b806ce75c026109bccc8683b",
+          "sourceAlphaBounds": [
+            100,
+            48,
+            315,
+            338
+          ],
+          "sourceCell": [
+            836,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 85407
+        },
+        {
+          "cleanup": {
+            "algorithm": "soft-magenta-key-and-edge-local-linear-despill-v1",
+            "alphaPreservedByDespill": true,
+            "despilledPixels": 752,
+            "edgeRadius": 5,
+            "forcedNeutralPixels": 27,
+            "keyedPixels": 163995,
+            "magentaResiduePixels": 0,
+            "maxVisibleMagentaExcess": 24,
+            "spillTolerance": 0.15,
+            "strength": 1.0,
+            "transparentPixels": 172570
+          },
+          "crossClipDestination": [
+            144,
+            25,
+            248,
+            399
+          ],
+          "destination": [
+            103,
+            134,
+            180,
+            290
+          ],
+          "file": "walk_to_observe/douhua_walk_to_observe_07.png",
+          "globalScaleDestination": [
+            112,
+            163,
+            162,
+            261
+          ],
+          "index": 7,
+          "magentaResiduePixels": 0,
+          "maxVisibleMagentaExcess": 22,
+          "outputAlphaBounds": [
+            144,
+            25,
+            392,
+            424
+          ],
+          "sha256": "33b575af2aa80d1fe76aaa32ff5cd78fb1bc151b4ca964dc1e9654900b5fb31b",
+          "sourceAlphaBounds": [
+            97,
+            55,
+            267,
+            329
+          ],
+          "sourceCell": [
+            1254,
+            470,
+            418,
+            471
+          ],
+          "visiblePixels": 74164
+        }
+      ],
+      "globalDisplayScale": 0.9,
+      "gridLines": {
+        "xByRow": [
+          [
+            0,
+            433,
+            840,
+            1278,
+            1672
+          ],
+          [
+            0,
+            418,
+            836,
+            1254,
+            1672
+          ]
+        ],
+        "y": [
+          0,
+          470,
+          941
+        ]
+      },
+      "name": "walk_to_observe",
+      "sharedScale": 1.05910165,
+      "sharedSourceSlotAnchorX": 232,
+      "sheetSize": [
+        1672,
+        941
+      ],
+      "source": "/Users/zerutian/.codex/generated_images/019f5007-be49-7632-835d-a00736f30e8d/exec-5c323e95-bb41-46a3-b8f0-b3cd00092db8.png",
+      "sourceSha256": "efa6ce44da501d2169d5eda5edfc8e2f4c2301e5e80c3a8db16030d18ea37669"
+    }
+  ],
+  "generator": "Scripts/PrepareAnimationSheets.py",
+  "generatorVersion": 1,
+  "output": {
+    "alphaThreshold": 2,
+    "canvas": [
+      480,
+      440
+    ],
+    "globalDisplayScale": 0.9,
+    "minimumMargin": 16,
+    "mode": "RGBA",
+    "targetBaseline": 424
+  },
+  "schemaVersion": 1,
+  "sourceLayout": {
+    "columns": 4,
+    "frameOrder": "row-major",
+    "rows": 2
+  },
+  "validation": {
+    "clipSharedScale": true,
+    "clips": [
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "loaf_breathe"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "loaf_to_observe"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "loaf_to_sleep"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "observe_idle"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "observe_to_loaf"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "observe_to_walk"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "pet_loaf"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "pet_observe"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "pet_sleep"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "sleep_breathe"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "sleep_to_loaf"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "walk_loop"
+      },
+      {
+        "baselines": [
+          424
+        ],
+        "frames": 8,
+        "magentaResiduePixels": 0,
+        "minimumMargin": 16,
+        "name": "walk_to_observe"
+      }
+    ],
+    "dimensions": [
+      480,
+      440
+    ],
+    "magentaResiduePixels": 0,
+    "minimumMargin": 16,
+    "mode": "RGBA",
+    "ok": true,
+    "targetBaseline": 424,
+    "transparentCorners": true,
+    "validatedClips": 13,
+    "validatedFrames": 104
+  }
+}

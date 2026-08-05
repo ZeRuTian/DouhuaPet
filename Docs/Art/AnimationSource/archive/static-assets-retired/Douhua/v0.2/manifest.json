@@ -1,0 +1,14 @@
+{
+  "version": "v0.2-offline",
+  "generatedBy": "Scripts/GenerateDouhuaAssets.swift",
+  "date": "2026-07-10",
+  "source": "Deterministic repository-local CoreGraphics/AppKit drawing based on Docs/DouhuaCharacterBible.md and the reference board; no original photos/videos copied or bundled.",
+  "limitation": "Offline vector/raster approximation, not final approved semi-realistic generative art.",
+  "sprites": [
+    "douhua_walk.png",
+    "douhua_observe.png",
+    "douhua_loaf.png",
+    "douhua_sleep.png"
+  ],
+  "modelSheet": "Docs/Art/douhua-model-sheet-v0.2-offline.png"
+}

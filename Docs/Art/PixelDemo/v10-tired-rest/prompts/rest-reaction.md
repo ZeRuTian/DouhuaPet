@@ -1,0 +1,7 @@
+Create exactly eight progressive right-facing full-body pixel-art frames of the same Douhua giving a lazy playful reaction while resting, arranged four columns by two rows on perfectly flat solid #ff00ff.
+
+Image 1 is the absolute runtime idle identity and scale master. Image 2 proves the approved runtime style and proportions. Images 3 and 4 show the real Douhua rolling partly onto his back, exposing the belly, curling all four paws and reaching a forepaw toward a nearby object. Draw only Douhua, never the slippers or room.
+
+Frame order forms one smooth reversible interaction: 1 exact compact loaf; 2 weight shifts onto the near hip; 3 gentle side flop with head still readable; 4 rolls partly onto back with belly visible and four paws naturally curled; 5 raises the near forepaw toward the viewer/cursor while hind paws remain complete; 6 relaxed tiny paw reach and body wiggle; 7 rolls back onto the side; 8 returns exactly to the compact loaf. Preserve believable feline joints and occlusion; all four limbs must remain anatomically accounted for.
+
+Hard identity lock: same exact skull/head mass, round cheeks, ears, eyes, short muzzle, chest/ribcage, hips, paw and tail thickness, golden-shaded markings, rendering and pixel density as the runtime master. No whole-cat resizing, identity drift, missing/extra/merged limbs, detached paw, cropping, overlap, slipper, prop, shadow, floor, effects, text, guide or watermark. Eight separated complete poses at one fixed pixel scale with generous padding.
